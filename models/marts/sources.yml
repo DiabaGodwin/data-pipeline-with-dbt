@@ -1,0 +1,10 @@
+sources:
+  - name: data-engineering-path
+    description: "This" 
+    database: defaultdb
+    schema: "public"
+
+
+    tables:
+      - name: "raw_global_liquidity"
+        description: "This table holds the enitre raw data for global liquidity from 1997-2025"
